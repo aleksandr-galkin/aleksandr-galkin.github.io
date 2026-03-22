@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2026-03-20"
-draft = true
+draft = false
 +++
 
 Senior Mechanical Engineer in the San Francisco Bay Area
