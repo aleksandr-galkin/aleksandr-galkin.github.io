@@ -1,0 +1,30 @@
+/* PaperMod dropdown menu support (hover + keyboard focus) */
+#menu li { position: relative; }
+
+/* Hide submenu by default */
+#menu li ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 999;
+  min-width: 220px;
+  padding: 8px 0;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--theme);
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
+}
+
+/* Show submenu on hover (desktop) */
+#menu li:hover > ul { display: block; }
+
+/* Show submenu when focusing via keyboard */
+#menu li:focus-within > ul { display: block; }
+
+/* Submenu item spacing */
+#menu li ul li a {
+  display: block;
+  padding: 8px 14px;
+  white-space: nowrap;
+}

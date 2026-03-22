@@ -1,0 +1,38 @@
+baseURL = "https://aleksandr-galkin.github.io/"
+languageCode = "en-us"
+title = "Engineering Portfolio"
+theme = "PaperMod"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  description = "Senior Mechanical Engineer"
+  ShowBreadCrumbs = true
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/galkin-alexandr/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:galkin-alexandr@outlook.com"
+
+[params.profileMode]
+  enabled = true
+  title = "Aleksandr (Sasha) Galkin"
+  subtitle = "Senior Mechanical Engineer"
+
+  [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "/projects/"
+
+  [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about/"
+
+[[menu.main]]
+  name = "Info"
+  url = "/info/"
+  weight = 1

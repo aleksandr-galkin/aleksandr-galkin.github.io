@@ -1,0 +1,14 @@
+# Hugo build output (do not commit)
+public/
+resources/
+
+# OS / editor
+.DS_Store
+
+# Temporary downloads
+*.nas_pro_downloading
+
+# Large media (keep locally, host externally for website)
+*.mp4
+*.mov
+*.pptx
