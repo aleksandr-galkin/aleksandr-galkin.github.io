@@ -1,6 +1,7 @@
 +++
 title = "AEOLOS 150 AD-CMOS Electron Energy Analyzer"
 draft = false
+weight = 3
 summary = " "
 
 [cover]

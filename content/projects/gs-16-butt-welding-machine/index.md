@@ -1,6 +1,7 @@
 +++
 title = "GS 16 Polymer Butt-Welding Machine"
 draft = false
+weight = 5
 summary = " "
 
 [cover]

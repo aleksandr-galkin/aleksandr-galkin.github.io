@@ -1,6 +1,7 @@
 +++
 title = "Serve Robotics Delivery Robot Platform"
 draft = false
+weight = 1
 summary = " "
 
 [cover]
