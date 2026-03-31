@@ -99,3 +99,5 @@ Designed a compact fluid-routing layout with integrated flow and temperature sen
 The EnviroMETROS platform was successfully developed and validated, meeting demanding performance, vacuum integrity, and industrial compliance requirements for both research and production environments.
 - EnviroMETROS LAB: Deployed as a multi-technique analytical platform featuring a high-efficiency load-lock and precision automated sample handling, enabling fast, repeatable characterization of a wide range of materials for R&D
 - EnviroMETROS FAB: Optimized for semiconductor manufacturing, this version supports fully automated handling of 200 mm and 300 mm wafers and is designed for seamless integration with standard Equipment Front End Modules (EFEM) and wafer-handling robotics
+
+[← Back to Projects](/projects/)

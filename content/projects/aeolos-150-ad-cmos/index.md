@@ -43,3 +43,5 @@ While confidential details cannot be disclosed, my work focused on developing an
 
 ### Project Outcome
 The AEOLOS 150 AD-CMOS was successfully delivered as a compact, high-performance analyzer with exceptional adaptability across diverse experimental setups. The project demanded precise engineering and close interdisciplinary collaboration to turn complex electron optics requirements into a reliable mechanical solution.
+
+[← Back to Projects](/projects/)

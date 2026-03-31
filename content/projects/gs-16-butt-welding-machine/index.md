@@ -137,3 +137,5 @@ Field testing confirmed both usability and functional performance, and the proto
 ![AHR Expo 2022](ahr-expo-1.png)
 ![AHR Expo 2022](ahr-expo-2.png)
 [Exhibition booklet (PDF)](booklet.pdf)
+
+[← Back to Projects](/projects/)

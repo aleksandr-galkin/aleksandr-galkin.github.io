@@ -79,3 +79,5 @@ To eliminate bellows buckling, a specialized sealing mechanism was introduced to
 
 ### Project Outcome
 The modified EnviroESCA system was rigorously tested to confirm long-term reliability. Validation across the full 3D travel envelope showed no mechanical interference or loss of vacuum integrity, while accelerated life-cycle testing demonstrated a substantial increase in MTBF. The final design eliminated the bellows failure mode and improved reliability in high-vacuum operation.
+
+[← Back to Projects](/projects/)

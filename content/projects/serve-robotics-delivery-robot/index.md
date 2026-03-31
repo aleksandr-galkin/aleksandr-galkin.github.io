@@ -38,3 +38,5 @@ At Serve Robotics, I contribute to the development of last-mile delivery robots 
 - Balancing cost and manufacturability with long-term durability
 
 ![Serve Robotics delivery robot](robot-3.png)
+
+[← Back to Projects](/projects/)

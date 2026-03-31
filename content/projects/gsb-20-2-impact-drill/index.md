@@ -57,3 +57,5 @@ This implementation involved coordinated updates across product design, tooling,
 
 ### Outcome
 The project was delivered on schedule and enabled the successful launch of the GSB 20-2, with improved safety features, updated clutch performance, a redesigned carrying case, and enhanced assembly readiness.
+
+[← Back to Projects](/projects/)
